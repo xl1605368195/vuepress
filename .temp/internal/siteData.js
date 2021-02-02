@@ -79,7 +79,7 @@ export const siteData = {
       },
       "regularPath": "/api/cli.html",
       "relativePath": "api/cli.md",
-      "key": "v-fdb94426",
+      "key": "v-73453928",
       "path": "/api/cli.html",
       "headers": [
         {
@@ -118,14 +118,14 @@ export const siteData = {
           "slug": "more-commands"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Node.js API",
       "frontmatter": {},
       "regularPath": "/api/node.html",
       "relativePath": "api/node.md",
-      "key": "v-3fb1c36a",
+      "key": "v-5d81d274",
       "path": "/api/node.html",
       "headers": [
         {
@@ -194,7 +194,40 @@ export const siteData = {
           "slug": "siteconfig"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "FAQ",
+      "frontmatter": {
+        "sidebar": "auto"
+      },
+      "regularPath": "/faq/",
+      "relativePath": "faq/README.md",
+      "key": "v-3c48d225",
+      "path": "/faq/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Why can’t palette.styl and index.styl merge into one API?",
+          "slug": "why-can-t-palette-styl-and-index-styl-merge-into-one-api"
+        },
+        {
+          "level": 2,
+          "title": "What’s the differences between the clientDynamicModules and enhanceAppFiles?",
+          "slug": "what-s-the-differences-between-the-clientdynamicmodules-and-enhanceappfiles"
+        },
+        {
+          "level": 2,
+          "title": "When do I need to use enhanceAppFiles?",
+          "slug": "when-do-i-need-to-use-enhanceappfiles"
+        },
+        {
+          "level": 2,
+          "title": "When do I need to use clientDynamicModules?",
+          "slug": "when-do-i-need-to-use-clientdynamicmodules"
+        }
+      ],
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Config Reference",
@@ -204,7 +237,7 @@ export const siteData = {
       },
       "regularPath": "/config/",
       "relativePath": "config/README.md",
-      "key": "v-608dc004",
+      "key": "v-21d2ac23",
       "path": "/config/",
       "headers": [
         {
@@ -418,47 +451,14 @@ export const siteData = {
           "slug": "evergreen"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "FAQ",
-      "frontmatter": {
-        "sidebar": "auto"
-      },
-      "regularPath": "/faq/",
-      "relativePath": "faq/README.md",
-      "key": "v-b4c3f380",
-      "path": "/faq/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Why can’t palette.styl and index.styl merge into one API?",
-          "slug": "why-can-t-palette-styl-and-index-styl-merge-into-one-api"
-        },
-        {
-          "level": 2,
-          "title": "What’s the differences between the clientDynamicModules and enhanceAppFiles?",
-          "slug": "what-s-the-differences-between-the-clientdynamicmodules-and-enhanceappfiles"
-        },
-        {
-          "level": 2,
-          "title": "When do I need to use enhanceAppFiles?",
-          "slug": "when-do-i-need-to-use-enhanceappfiles"
-        },
-        {
-          "level": 2,
-          "title": "When do I need to use clientDynamicModules?",
-          "slug": "when-do-i-need-to-use-clientdynamicmodules"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Introduction",
       "frontmatter": {},
       "regularPath": "/guide/",
       "relativePath": "guide/README.md",
-      "key": "v-2a5c20b4",
+      "key": "v-d5771bce",
       "path": "/guide/",
       "headers": [
         {
@@ -497,14 +497,14 @@ export const siteData = {
           "slug": "gitbook"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Asset Handling",
       "frontmatter": {},
       "regularPath": "/guide/assets.html",
       "relativePath": "guide/assets.md",
-      "key": "v-d17e2166",
+      "key": "v-09c23cc8",
       "path": "/guide/assets.html",
       "headers": [
         {
@@ -523,14 +523,14 @@ export const siteData = {
           "slug": "base-url"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Configuration",
       "frontmatter": {},
       "regularPath": "/guide/basic-config.html",
       "relativePath": "guide/basic-config.md",
-      "key": "v-03ee8f5e",
+      "key": "v-8e1ab568",
       "path": "/guide/basic-config.html",
       "headers": [
         {
@@ -549,14 +549,14 @@ export const siteData = {
           "slug": "app-level-enhancements"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Deploying",
       "frontmatter": {},
       "regularPath": "/guide/deploy.html",
       "relativePath": "guide/deploy.md",
-      "key": "v-988e8cf6",
+      "key": "v-263a0700",
       "path": "/guide/deploy.html",
       "headers": [
         {
@@ -600,14 +600,14 @@ export const siteData = {
           "slug": "vercel"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Directory Structure",
       "frontmatter": {},
       "regularPath": "/guide/directory-structure.html",
       "relativePath": "guide/directory-structure.md",
-      "key": "v-d77454e6",
+      "key": "v-38f82170",
       "path": "/guide/directory-structure.html",
       "headers": [
         {
@@ -616,14 +616,14 @@ export const siteData = {
           "slug": "default-page-routing"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Frontmatter",
       "frontmatter": {},
       "regularPath": "/guide/frontmatter.html",
       "relativePath": "guide/frontmatter.md",
-      "key": "v-4c2529a6",
+      "key": "v-32d45ae8",
       "path": "/guide/frontmatter.html",
       "headers": [
         {
@@ -712,14 +712,14 @@ export const siteData = {
           "slug": "tags"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Getting Started",
       "frontmatter": {},
       "regularPath": "/guide/getting-started.html",
       "relativePath": "guide/getting-started.md",
-      "key": "v-06cee626",
+      "key": "v-411d91a8",
       "path": "/guide/getting-started.html",
       "headers": [
         {
@@ -738,14 +738,14 @@ export const siteData = {
           "slug": "manual-installation"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Global Computed",
       "frontmatter": {},
       "regularPath": "/guide/global-computed.html",
       "relativePath": "guide/global-computed.md",
-      "key": "v-4d2be7e6",
+      "key": "v-1def10c8",
       "path": "/guide/global-computed.html",
       "headers": [
         {
@@ -789,35 +789,14 @@ export const siteData = {
           "slug": "themeconfig"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "Internationalization",
-      "frontmatter": {},
-      "regularPath": "/guide/i18n.html",
-      "relativePath": "guide/i18n.md",
-      "key": "v-f7934ad2",
-      "path": "/guide/i18n.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Site Level i18n Config",
-          "slug": "site-level-i18n-config"
-        },
-        {
-          "level": 2,
-          "title": "Default Theme i18n Config",
-          "slug": "default-theme-i18n-config"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Markdown Slot",
       "frontmatter": {},
       "regularPath": "/guide/markdown-slot.html",
       "relativePath": "guide/markdown-slot.md",
-      "key": "v-ec125ba6",
+      "key": "v-32196c68",
       "path": "/guide/markdown-slot.html",
       "headers": [
         {
@@ -841,14 +820,35 @@ export const siteData = {
           "slug": "example"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "Internationalization",
+      "frontmatter": {},
+      "regularPath": "/guide/i18n.html",
+      "relativePath": "guide/i18n.md",
+      "key": "v-8150c4dc",
+      "path": "/guide/i18n.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Site Level i18n Config",
+          "slug": "site-level-i18n-config"
+        },
+        {
+          "level": 2,
+          "title": "Default Theme i18n Config",
+          "slug": "default-theme-i18n-config"
+        }
+      ],
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Markdown Extensions",
       "frontmatter": {},
       "regularPath": "/guide/markdown.html",
       "relativePath": "guide/markdown.md",
-      "key": "v-1a8f42f5",
+      "key": "v-af314a20",
       "path": "/guide/markdown.html",
       "headers": [
         {
@@ -942,45 +942,14 @@ export const siteData = {
           "slug": "advanced-configuration"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "Permalinks",
-      "frontmatter": {},
-      "regularPath": "/guide/permalinks.html",
-      "relativePath": "guide/permalinks.md",
-      "key": "v-7f93cc43",
-      "path": "/guide/permalinks.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Background",
-          "slug": "background"
-        },
-        {
-          "level": 2,
-          "title": "Permalinks",
-          "slug": "permalinks-2"
-        },
-        {
-          "level": 3,
-          "title": "Configure Permalinks",
-          "slug": "configure-permalinks"
-        },
-        {
-          "level": 3,
-          "title": "Template Variables",
-          "slug": "template-variables"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Using Vue in Markdown",
       "frontmatter": {},
       "regularPath": "/guide/using-vue.html",
       "relativePath": "guide/using-vue.md",
-      "key": "v-54dd1166",
+      "key": "v-4dc37c88",
       "path": "/guide/using-vue.html",
       "headers": [
         {
@@ -1059,7 +1028,38 @@ export const siteData = {
           "slug": "badge"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "Permalinks",
+      "frontmatter": {},
+      "regularPath": "/guide/permalinks.html",
+      "relativePath": "guide/permalinks.md",
+      "key": "v-994d2284",
+      "path": "/guide/permalinks.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Background",
+          "slug": "background"
+        },
+        {
+          "level": 2,
+          "title": "Permalinks",
+          "slug": "permalinks-2"
+        },
+        {
+          "level": 3,
+          "title": "Configure Permalinks",
+          "slug": "configure-permalinks"
+        },
+        {
+          "level": 3,
+          "title": "Template Variables",
+          "slug": "template-variables"
+        }
+      ],
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Home",
@@ -1072,9 +1072,9 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "index.md",
-      "key": "v-67354086",
+      "key": "v-410b8f01",
       "path": "/",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Design Concepts of VuePress 1.x",
@@ -1083,7 +1083,7 @@ export const siteData = {
       },
       "regularPath": "/miscellaneous/design-concepts.html",
       "relativePath": "miscellaneous/design-concepts.md",
-      "key": "v-3d2c936d",
+      "key": "v-6b3ec228",
       "path": "/miscellaneous/design-concepts.html",
       "headers": [
         {
@@ -1142,7 +1142,7 @@ export const siteData = {
           "slug": "others"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Glossary",
@@ -1151,7 +1151,7 @@ export const siteData = {
       },
       "regularPath": "/miscellaneous/glossary.html",
       "relativePath": "miscellaneous/glossary.md",
-      "key": "v-cd772f0a",
+      "key": "v-5ec9ab14",
       "path": "/miscellaneous/glossary.html",
       "headers": [
         {
@@ -1210,7 +1210,7 @@ export const siteData = {
           "slug": "parentthemeentry"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Local Development",
@@ -1219,7 +1219,7 @@ export const siteData = {
       },
       "regularPath": "/miscellaneous/local-development.html",
       "relativePath": "miscellaneous/local-development.md",
-      "key": "v-b0002be6",
+      "key": "v-0f964348",
       "path": "/miscellaneous/local-development.html",
       "headers": [
         {
@@ -1258,7 +1258,7 @@ export const siteData = {
           "slug": "notes"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Migration from 0.x",
@@ -1267,7 +1267,7 @@ export const siteData = {
       },
       "regularPath": "/miscellaneous/migration-guide.html",
       "relativePath": "miscellaneous/migration-guide.md",
-      "key": "v-6ec5430d",
+      "key": "v-c6511c70",
       "path": "/miscellaneous/migration-guide.html",
       "headers": [
         {
@@ -1306,14 +1306,14 @@ export const siteData = {
           "slug": "vuepress-style-styl"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Plugin",
       "frontmatter": {},
       "regularPath": "/plugin/",
       "relativePath": "plugin/README.md",
-      "key": "v-7bd03844",
+      "key": "v-14317003",
       "path": "/plugin/",
       "headers": [
         {
@@ -1342,14 +1342,14 @@ export const siteData = {
           "slug": "architecture"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Context API",
       "frontmatter": {},
       "regularPath": "/plugin/context-api.html",
       "relativePath": "plugin/context-api.md",
-      "key": "v-5c7353f9",
+      "key": "v-175d40f4",
       "path": "/plugin/context-api.html",
       "headers": [
         {
@@ -1388,14 +1388,14 @@ export const siteData = {
           "slug": "ctx-writetemp"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Lifecycle",
       "frontmatter": {},
       "regularPath": "/plugin/life-cycle.html",
       "relativePath": "plugin/life-cycle.md",
-      "key": "v-f2822226",
+      "key": "v-40b442b0",
       "path": "/plugin/life-cycle.html",
       "headers": [
         {
@@ -1414,7 +1414,31 @@ export const siteData = {
           "slug": "generated"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "back-to-top",
+      "frontmatter": {
+        "title": "back-to-top",
+        "metaTitle": "Back-To-Top Plugin | VuePress"
+      },
+      "regularPath": "/plugin/official/plugin-back-to-top.html",
+      "relativePath": "plugin/official/plugin-back-to-top.md",
+      "key": "v-2e976786",
+      "path": "/plugin/official/plugin-back-to-top.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Install",
+          "slug": "install"
+        },
+        {
+          "level": 2,
+          "title": "Usage",
+          "slug": "usage"
+        }
+      ],
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "active-header-links",
@@ -1424,7 +1448,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-active-header-links.html",
       "relativePath": "plugin/official/plugin-active-header-links.md",
-      "key": "v-268a8a1d",
+      "key": "v-71567518",
       "path": "/plugin/official/plugin-active-header-links.html",
       "headers": [
         {
@@ -1458,31 +1482,7 @@ export const siteData = {
           "slug": "headeranchorselector"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "back-to-top",
-      "frontmatter": {
-        "title": "back-to-top",
-        "metaTitle": "Back-To-Top Plugin | VuePress"
-      },
-      "regularPath": "/plugin/official/plugin-back-to-top.html",
-      "relativePath": "plugin/official/plugin-back-to-top.md",
-      "key": "v-13d8268b",
-      "path": "/plugin/official/plugin-back-to-top.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Install",
-          "slug": "install"
-        },
-        {
-          "level": 2,
-          "title": "Usage",
-          "slug": "usage"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "blog",
@@ -1492,7 +1492,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-blog.html",
       "relativePath": "plugin/official/plugin-blog.md",
-      "key": "v-02781c8d",
+      "key": "v-25663e70",
       "path": "/plugin/official/plugin-blog.html",
       "headers": [
         {
@@ -1511,7 +1511,7 @@ export const siteData = {
           "slug": "usage"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "google-analytics",
@@ -1521,7 +1521,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-google-analytics.html",
       "relativePath": "plugin/official/plugin-google-analytics.md",
-      "key": "v-0d13a38d",
+      "key": "v-2dfe26c8",
       "path": "/plugin/official/plugin-google-analytics.html",
       "headers": [
         {
@@ -1545,7 +1545,7 @@ export const siteData = {
           "slug": "ga"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "last-updated",
@@ -1555,7 +1555,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-last-updated.html",
       "relativePath": "plugin/official/plugin-last-updated.md",
-      "key": "v-f90ac666",
+      "key": "v-2924e9f0",
       "path": "/plugin/official/plugin-last-updated.html",
       "headers": [
         {
@@ -1579,7 +1579,7 @@ export const siteData = {
           "slug": "dateoptions"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "medium-zoom",
@@ -1589,7 +1589,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-medium-zoom.html",
       "relativePath": "plugin/official/plugin-medium-zoom.md",
-      "key": "v-576d6187",
+      "key": "v-722ca282",
       "path": "/plugin/official/plugin-medium-zoom.html",
       "headers": [
         {
@@ -1618,36 +1618,7 @@ export const siteData = {
           "slug": "options-2"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "nprogress",
-      "frontmatter": {
-        "title": "nprogress",
-        "metaTitle": "Nprogress Plugin | VuePress"
-      },
-      "regularPath": "/plugin/official/plugin-nprogress.html",
-      "relativePath": "plugin/official/plugin-nprogress.md",
-      "key": "v-613e9832",
-      "path": "/plugin/official/plugin-nprogress.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Install",
-          "slug": "install"
-        },
-        {
-          "level": 2,
-          "title": "Usage",
-          "slug": "usage"
-        },
-        {
-          "level": 2,
-          "title": "Custom color",
-          "slug": "custom-color"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "pwa",
@@ -1657,7 +1628,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-pwa.html",
       "relativePath": "plugin/official/plugin-pwa.md",
-      "key": "v-0b872d69",
+      "key": "v-f8b47738",
       "path": "/plugin/official/plugin-pwa.html",
       "headers": [
         {
@@ -1716,7 +1687,36 @@ export const siteData = {
           "slug": "customize-the-ui-of-sw-update-popup"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "nprogress",
+      "frontmatter": {
+        "title": "nprogress",
+        "metaTitle": "Nprogress Plugin | VuePress"
+      },
+      "regularPath": "/plugin/official/plugin-nprogress.html",
+      "relativePath": "plugin/official/plugin-nprogress.md",
+      "key": "v-aa74ab3c",
+      "path": "/plugin/official/plugin-nprogress.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Install",
+          "slug": "install"
+        },
+        {
+          "level": 2,
+          "title": "Usage",
+          "slug": "usage"
+        },
+        {
+          "level": 2,
+          "title": "Custom color",
+          "slug": "custom-color"
+        }
+      ],
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "register-components",
@@ -1726,7 +1726,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-register-components.html",
       "relativePath": "plugin/official/plugin-register-components.md",
-      "key": "v-548220dd",
+      "key": "v-c163e850",
       "path": "/plugin/official/plugin-register-components.html",
       "headers": [
         {
@@ -1760,7 +1760,7 @@ export const siteData = {
           "slug": "getcomponentname"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "search",
@@ -1770,7 +1770,7 @@ export const siteData = {
       },
       "regularPath": "/plugin/official/plugin-search.html",
       "relativePath": "plugin/official/plugin-search.md",
-      "key": "v-ec74a166",
+      "key": "v-905043f0",
       "path": "/plugin/official/plugin-search.html",
       "headers": [
         {
@@ -1814,14 +1814,14 @@ export const siteData = {
           "slug": "tweak-the-default-colors"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Option API",
       "frontmatter": {},
       "regularPath": "/plugin/option-api.html",
       "relativePath": "plugin/option-api.md",
-      "key": "v-74a6dccd",
+      "key": "v-64e466f0",
       "path": "/plugin/option-api.html",
       "headers": [
         {
@@ -1905,14 +1905,14 @@ export const siteData = {
           "slug": "extendcli"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Using a Plugin",
       "frontmatter": {},
       "regularPath": "/plugin/using-a-plugin.html",
       "relativePath": "plugin/using-a-plugin.md",
-      "key": "v-2235f40d",
+      "key": "v-66baf8c8",
       "path": "/plugin/using-a-plugin.html",
       "headers": [
         {
@@ -1941,32 +1941,32 @@ export const siteData = {
           "slug": "object-style"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Writing a Plugin",
       "frontmatter": {},
       "regularPath": "/plugin/writing-a-plugin.html",
       "relativePath": "plugin/writing-a-plugin.md",
-      "key": "v-78f0048d",
+      "key": "v-359e33c8",
       "path": "/plugin/writing-a-plugin.html",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Theme",
       "frontmatter": {},
       "regularPath": "/theme/",
       "relativePath": "theme/README.md",
-      "key": "v-0d4e585a",
+      "key": "v-7836a9bf",
       "path": "/theme/",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Blog theme",
       "frontmatter": {},
       "regularPath": "/theme/blog-theme.html",
       "relativePath": "theme/blog-theme.md",
-      "key": "v-94d5741e",
+      "key": "v-2d4a2f28",
       "path": "/theme/blog-theme.html",
       "headers": [
         {
@@ -1985,14 +1985,14 @@ export const siteData = {
           "slug": "usage"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Default Theme Config",
       "frontmatter": {},
       "regularPath": "/theme/default-theme-config.html",
       "relativePath": "theme/default-theme-config.md",
-      "key": "v-a7832cee",
+      "key": "v-245d0084",
       "path": "/theme/default-theme-config.html",
       "headers": [
         {
@@ -2126,14 +2126,14 @@ export const siteData = {
           "slug": "ejecting"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Theme Inheritance",
       "frontmatter": {},
       "regularPath": "/theme/inheritance.html",
       "relativePath": "theme/inheritance.md",
-      "key": "v-5a3dd90d",
+      "key": "v-99b66e70",
       "path": "/theme/inheritance.html",
       "headers": [
         {
@@ -2172,7 +2172,7 @@ export const siteData = {
           "slug": "access-parent-theme"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Theme Configuration",
@@ -2181,7 +2181,7 @@ export const siteData = {
       },
       "regularPath": "/theme/option-api.html",
       "relativePath": "theme/option-api.md",
-      "key": "v-f35279ae",
+      "key": "v-8bc734b8",
       "path": "/theme/option-api.html",
       "headers": [
         {
@@ -2210,14 +2210,14 @@ export const siteData = {
           "slug": "globallayout"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Using a theme",
       "frontmatter": {},
       "regularPath": "/theme/using-a-theme.html",
       "relativePath": "theme/using-a-theme.md",
-      "key": "v-186f23cd",
+      "key": "v-7edc83f0",
       "path": "/theme/using-a-theme.html",
       "headers": [
         {
@@ -2231,50 +2231,14 @@ export const siteData = {
           "slug": "theme-shorthand"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "Home",
-      "frontmatter": {
-        "home": true,
-        "heroImage": "/hero.png",
-        "actionText": "快速上手 →",
-        "actionLink": "/zh/guide/",
-        "features": [
-          {
-            "title": "简洁至上",
-            "details": "以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。"
-          },
-          {
-            "title": "Vue 驱动",
-            "details": "享受 Vue + webpack 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。"
-          },
-          {
-            "title": "高性能",
-            "details": "VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。"
-          }
-        ],
-        "footer": "MIT Licensed | Copyright © 2018-present Evan You"
-      },
-      "regularPath": "/zh/",
-      "relativePath": "zh/README.md",
-      "key": "v-58249bfe",
-      "path": "/zh/",
-      "headers": [
-        {
-          "level": 3,
-          "title": "像数 1, 2, 3 一样容易",
-          "slug": "像数-1-2-3-一样容易"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
     },
     {
       "title": "Writing a theme",
       "frontmatter": {},
       "regularPath": "/theme/writing-a-theme.html",
       "relativePath": "theme/writing-a-theme.md",
-      "key": "v-15ea85cd",
+      "key": "v-5a6f8a88",
       "path": "/theme/writing-a-theme.html",
       "headers": [
         {
@@ -2314,14 +2278,50 @@ export const siteData = {
         }
       ],
       "excerpt": "<h1 id=\"writing-a-theme\"><a class=\"header-anchor\" href=\"#writing-a-theme\">#</a> Writing a theme</h1>\n<p>To write a theme, create a <code>.vuepress/theme</code> directory in your docs root, and then create a <code>Layout.vue</code> file:</p>\n<pre class=\"vue-container\"><code><p>.\n└─ .vuepress\n └─ <code>theme</code>\n     └─ Layout.vue</p>\n</code></pre><p>From there it’s the same as developing a normal Vue application. It’s entirely up to you how to organize your theme.</p>\n<h2 id=\"content-outlet\"><a class=\"header-anchor\" href=\"#content-outlet\">#</a> Content Outlet</h2>\n<p>The compiled content of the current <code>.md</code> file being rendered will be available as a special <code>&lt;Content/&gt;</code> global component. You will need to render it somewhere in your layout to display the content of the page. The simplest theme can be a single <code>Layout.vue</code> component with the following content:</p>\n<!--beforebegin--><div class=\"language-html extra-class\"><!--afterbegin--><pre v-pre class=\"language-html\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>template</span><span class=\"token punctuation\">></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>div</span> <span class=\"token attr-name\">class</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>theme-container<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">></span></span>\n    <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>Content</span><span class=\"token punctuation\">/></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>div</span><span class=\"token punctuation\">></span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>template</span><span class=\"token punctuation\">></span></span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><p><strong>Also see:</strong></p>\n<ul>\n<li><RouterLink to=\"/guide/markdown-slot.html\">Markdown Slot</RouterLink></li>\n</ul>\n<h2 id=\"directory-structure\"><a class=\"header-anchor\" href=\"#directory-structure\">#</a> Directory Structure</h2>\n<p>One <code>Layout.vue</code> might not be enough, and you might also want to define more layout components in the theme for using on different pages. You may also want to customize the <RouterLink to=\"/config/#palette-styl\">palette</RouterLink>, and even apply some plugins.</p>\n<p>So it’s time to reorganize your theme, an agreed theme directory structure is as follows:</p>\n<pre class=\"vue-container\"><code><p>theme\n├── <code>global-components</code>\n│   └── xxx.vue\n├── <code>components</code>\n│   └── xxx.vue\n├── <code>layouts</code>\n│   ├── Layout.vue <em>(<strong>Mandatory</strong>)</em>\n│   └── 404.vue\n├── <code>styles</code>\n│   ├── index.styl\n│   └── palette.styl\n├── <code>templates</code>\n│   ├── dev.html\n│   └── ssr.html\n├── <code>index.js</code>\n├── <code>enhanceApp.js</code>\n└── package.json</p>\n</code></pre><ul>\n<li><code>theme/global-components</code>: Components under this directory will be automatically registered as global components. For details, please check out <a href=\"https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/plugin-register-components\" target=\"_blank\" rel=\"noopener noreferrer\">@vuepress/plugin-register-components<OutboundLink/></a>.</li>\n<li><code>theme/components</code>: Your components.</li>\n<li><code>theme/layouts</code>: Layout components of the theme, where <code>Layout.vue</code> is required.</li>\n<li><code>theme/styles</code>: Global style and palette.</li>\n<li><code>theme/templates</code>: Edit default template.</li>\n<li><code>theme/index.js</code>: Entry file of theme configuration.</li>\n<li><code>theme/enhanceApp.js</code>: Theme level enhancements.</li>\n</ul>\n<div class=\"custom-block warning\"><p class=\"custom-block-title\">Note</p>\n<p>When you publish your theme as an npm package, if you don’t have any theme configuration, that means you don’t have <code>theme/index.js</code>, you’ll need to set the <code>&quot;main&quot;</code> field  to <code>layouts/Layout.vue</code> in <code>package.json</code>, only in this way VuePress can properly resolve the theme.</p>\n<!--beforebegin--><div class=\"language-json extra-class\"><!--afterbegin--><pre v-pre class=\"language-json\"><code><span class=\"token punctuation\">{</span>\n  ...\n  <span class=\"token property\">\"main\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"layouts/Layout.vue\"</span><span class=\"token punctuation\">,</span>\n  ...\n<span class=\"token punctuation\">}</span>\n</code></pre>\n<!--beforeend--></div><!--afterend--></div>\n<h2 id=\"layout-component\"><a class=\"header-anchor\" href=\"#layout-component\">#</a> Layout Component</h2>\n<p>Suppose your theme layouts folder is as follows:</p>\n<pre class=\"vue-container\"><code><p>theme\n└── <code>layouts</code>\n   ├── Layout.vue\n   ├── AnotherLayout.vue\n   └── 404.vue</p>\n</code></pre><p>Then, all the pages will use <code>Layout.vue</code> as layout component by default, while the routes not matching will use <code>404.vue</code>.</p>\n<p>To switch the layout of some pages to <code>AnotherLayout.vue</code>, all you have to do is update the frontmatter of this page:</p>\n<!--beforebegin--><div class=\"language-markdown extra-class\"><!--afterbegin--><pre v-pre class=\"language-markdown\"><code><span class=\"token front-matter-block\"><span class=\"token punctuation\">---</span>\n<span class=\"token font-matter yaml language-yaml\">layout: AnotherLayout</span>\n<span class=\"token punctuation\">---</span></span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><div class=\"custom-block tip\"><p class=\"custom-block-title\">TIP</p>\n<p>Each layout component may render distinct pages. To apply some global UI (for example global header), consider using <RouterLink to=\"/theme/option-api.html#globallayout\">globalLayout</RouterLink>。</p>\n</div>\n<h2 id=\"apply-plugins\"><a class=\"header-anchor\" href=\"#apply-plugins\">#</a> Apply plugins</h2>\n<p>You can apply some plugins to the theme via <code>theme/index.js</code>.</p>\n<!--beforebegin--><div class=\"language-js extra-class\"><!--afterbegin--><pre v-pre class=\"language-js\"><code><span class=\"token comment\">// .vuepress/theme/index.js</span>\nmodule<span class=\"token punctuation\">.</span>exports <span class=\"token operator\">=</span> <span class=\"token punctuation\">{</span>\n  plugins<span class=\"token operator\">:</span> <span class=\"token punctuation\">[</span>\n    <span class=\"token punctuation\">[</span><span class=\"token string\">'@vuepress/pwa'</span><span class=\"token punctuation\">,</span> <span class=\"token punctuation\">{</span>\n      serviceWorker<span class=\"token operator\">:</span> <span class=\"token boolean\">true</span><span class=\"token punctuation\">,</span>\n      updatePopup<span class=\"token operator\">:</span> <span class=\"token boolean\">true</span>\n    <span class=\"token punctuation\">}</span><span class=\"token punctuation\">]</span>\n  <span class=\"token punctuation\">]</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><h2 id=\"site-and-page-metadata\"><a class=\"header-anchor\" href=\"#site-and-page-metadata\">#</a> Site and Page Metadata</h2>\n<p>The <code>Layout</code> component will be invoked once for every <code>.md</code> file in <code>docs</code>, and the metadata for the entire site and that specific page will be exposed respectively as <code>this.$site</code> and <code>this.$page</code> properties which are injected into every component in the app.</p>\n<p>This is the value of <code>$site</code> of this website:</p>\n<!--beforebegin--><div class=\"language-json extra-class\"><!--afterbegin--><pre v-pre class=\"language-json\"><code><span class=\"token punctuation\">{</span>\n  <span class=\"token property\">\"title\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"VuePress\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"description\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"Vue-powered Static Site Generator\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"base\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"/\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"pages\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">[</span>\n    <span class=\"token punctuation\">{</span>\n      <span class=\"token property\">\"lastUpdated\"</span><span class=\"token operator\">:</span> <span class=\"token number\">1524027677000</span><span class=\"token punctuation\">,</span>\n      <span class=\"token property\">\"path\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"/\"</span><span class=\"token punctuation\">,</span>\n      <span class=\"token property\">\"title\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"VuePress\"</span><span class=\"token punctuation\">,</span>\n      <span class=\"token property\">\"frontmatter\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">{</span><span class=\"token punctuation\">}</span>\n    <span class=\"token punctuation\">}</span><span class=\"token punctuation\">,</span>\n    ...\n  <span class=\"token punctuation\">]</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><p><code>title</code>, <code>description</code> and <code>base</code> are copied from respective fields in <code>.vuepress/config.js</code>. <code>pages</code> contains an array of metadata objects for each page, including its path, page title (explicitly specified in <RouterLink to=\"/guide/markdown.html#front-matter\">YAML frontmatter</RouterLink> or inferred from the first header on the page), and any YAML frontmatter data in that file.</p>\n<p>This is the <code>$page</code> object for this page you are looking at:</p>\n<!--beforebegin--><div class=\"language-json extra-class\"><!--afterbegin--><pre v-pre class=\"language-json\"><code><span class=\"token punctuation\">{</span>\n  <span class=\"token property\">\"lastUpdated\"</span><span class=\"token operator\">:</span> <span class=\"token number\">1524847549000</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"path\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"/guide/custom-themes.html\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"title\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"Custom Themes\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"headers\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">[</span><span class=\"token comment\">/* ... */</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">,</span>\n  <span class=\"token property\">\"frontmatter\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">{</span><span class=\"token punctuation\">}</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><p>If the user provided <code>themeConfig</code> in <code>.vuepress/config.js</code>, it will also be available as <code>$site.themeConfig</code>. You can use this to allow users to customize behavior of your theme - for example, specifying categories and page order. You can then use these data together with <code>$site.pages</code> to dynamically construct navigation links.</p>\n<p>Don’t forget that <code>this.$route</code> and <code>this.$router</code> are also available as part of Vue Router’s API.</p>\n<div class=\"custom-block tip\"><p class=\"custom-block-title\">TIP</p>\n<p><code>lastUpdated</code> is the UNIX timestamp of this file’s last git commit, for more details, check out <RouterLink to=\"/theme/default-theme-config.html#last-updated\">Last Updated</RouterLink>.</p>\n</div>\n<h2 id=\"content-excerpt\"><a class=\"header-anchor\" href=\"#content-excerpt\">#</a> Content Excerpt</h2>\n<p>If a Markdown file contains a `</p>\n",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2/2/2021, 2:04:28 PM"
+    },
+    {
+      "title": "Home",
+      "frontmatter": {
+        "home": true,
+        "heroImage": "/hero.png",
+        "actionText": "快速上手 →",
+        "actionLink": "/zh/guide/",
+        "features": [
+          {
+            "title": "简洁至上",
+            "details": "以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。"
+          },
+          {
+            "title": "Vue 驱动",
+            "details": "享受 Vue + webpack 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。"
+          },
+          {
+            "title": "高性能",
+            "details": "VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。"
+          }
+        ],
+        "footer": "MIT Licensed | Copyright © 2018-present Evan You"
+      },
+      "regularPath": "/zh/",
+      "relativePath": "zh/README.md",
+      "key": "v-666b1d23",
+      "path": "/zh/",
+      "headers": [
+        {
+          "level": 3,
+          "title": "像数 1, 2, 3 一样容易",
+          "slug": "像数-1-2-3-一样容易"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "命令行接口",
       "frontmatter": {},
       "regularPath": "/zh/api/cli.html",
       "relativePath": "zh/api/cli.md",
-      "key": "v-4f798eb6",
+      "key": "v-13647ba0",
       "path": "/zh/api/cli.html",
       "headers": [
         {
@@ -2400,14 +2400,14 @@ export const siteData = {
           "slug": "更多指令"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Node.js API",
       "frontmatter": {},
       "regularPath": "/zh/api/node.html",
       "relativePath": "zh/api/node.md",
-      "key": "v-91c9f5e6",
+      "key": "v-a2111570",
       "path": "/zh/api/node.html",
       "headers": [
         {
@@ -2476,7 +2476,7 @@ export const siteData = {
           "slug": "siteconfig"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "配置",
@@ -2486,7 +2486,7 @@ export const siteData = {
       },
       "regularPath": "/zh/config/",
       "relativePath": "zh/config/README.md",
-      "key": "v-12831834",
+      "key": "v-1fc5904b",
       "path": "/zh/config/",
       "headers": [
         {
@@ -2700,47 +2700,14 @@ export const siteData = {
           "slug": "evergreen"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "FAQ",
-      "frontmatter": {
-        "sidebar": "auto"
-      },
-      "regularPath": "/zh/faq/",
-      "relativePath": "zh/faq/README.md",
-      "key": "v-631110c4",
-      "path": "/zh/faq/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "为什么不能把 palette.styl 和 index.styl 合并到一个 API?",
-          "slug": "为什么不能把-palette-styl-和-index-styl-合并到一个-api"
-        },
-        {
-          "level": 2,
-          "title": "clientDynamicModules 和 enhanceAppFiles 的区别是什么?",
-          "slug": "clientdynamicmodules-和-enhanceappfiles-的区别是什么"
-        },
-        {
-          "level": 2,
-          "title": "什么时候需要使用 enhanceAppFiles?",
-          "slug": "什么时候需要使用-enhanceappfiles"
-        },
-        {
-          "level": 2,
-          "title": "什么时候需要使用 clientDynamicModules?",
-          "slug": "什么时候需要使用-clientdynamicmodules"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "介绍",
       "frontmatter": {},
       "regularPath": "/zh/guide/",
       "relativePath": "zh/guide/README.md",
-      "key": "v-ac1aa244",
+      "key": "v-0320befa",
       "path": "/zh/guide/",
       "headers": [
         {
@@ -2779,14 +2746,47 @@ export const siteData = {
           "slug": "gitbook"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "FAQ",
+      "frontmatter": {
+        "sidebar": "auto"
+      },
+      "regularPath": "/zh/faq/",
+      "relativePath": "zh/faq/README.md",
+      "key": "v-209103c3",
+      "path": "/zh/faq/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "为什么不能把 palette.styl 和 index.styl 合并到一个 API?",
+          "slug": "为什么不能把-palette-styl-和-index-styl-合并到一个-api"
+        },
+        {
+          "level": 2,
+          "title": "clientDynamicModules 和 enhanceAppFiles 的区别是什么?",
+          "slug": "clientdynamicmodules-和-enhanceappfiles-的区别是什么"
+        },
+        {
+          "level": 2,
+          "title": "什么时候需要使用 enhanceAppFiles?",
+          "slug": "什么时候需要使用-enhanceappfiles"
+        },
+        {
+          "level": 2,
+          "title": "什么时候需要使用 clientDynamicModules?",
+          "slug": "什么时候需要使用-clientdynamicmodules"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "静态资源",
       "frontmatter": {},
       "regularPath": "/zh/guide/assets.html",
       "relativePath": "zh/guide/assets.md",
-      "key": "v-43628f26",
+      "key": "v-5680bda8",
       "path": "/zh/guide/assets.html",
       "headers": [
         {
@@ -2805,14 +2805,14 @@ export const siteData = {
           "slug": "基础路径"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "基本配置",
       "frontmatter": {},
       "regularPath": "/zh/guide/basic-config.html",
       "relativePath": "zh/guide/basic-config.md",
-      "key": "v-4fff8aed",
+      "key": "v-d6f6e0b0",
       "path": "/zh/guide/basic-config.html",
       "headers": [
         {
@@ -2831,14 +2831,14 @@ export const siteData = {
           "slug": "应用级别的配置"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "部署",
       "frontmatter": {},
       "regularPath": "/zh/guide/deploy.html",
       "relativePath": "zh/guide/deploy.md",
-      "key": "v-293eea26",
+      "key": "v-63929028",
       "path": "/zh/guide/deploy.html",
       "headers": [
         {
@@ -2892,30 +2892,14 @@ export const siteData = {
           "slug": "_21-云盒子"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "目录结构",
-      "frontmatter": {},
-      "regularPath": "/zh/guide/directory-structure.html",
-      "relativePath": "zh/guide/directory-structure.md",
-      "key": "v-4ac34cbb",
-      "path": "/zh/guide/directory-structure.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "默认的页面路由",
-          "slug": "默认的页面路由"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Front Matter",
       "frontmatter": {},
       "regularPath": "/zh/guide/frontmatter.html",
       "relativePath": "zh/guide/frontmatter.md",
-      "key": "v-7854714d",
+      "key": "v-bb8d2e70",
       "path": "/zh/guide/frontmatter.html",
       "headers": [
         {
@@ -2999,23 +2983,39 @@ export const siteData = {
           "slug": "tags"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "目录结构",
+      "frontmatter": {},
+      "regularPath": "/zh/guide/directory-structure.html",
+      "relativePath": "zh/guide/directory-structure.md",
+      "key": "v-59102394",
+      "path": "/zh/guide/directory-structure.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "默认的页面路由",
+          "slug": "默认的页面路由"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "快速上手",
       "frontmatter": {},
       "regularPath": "/zh/guide/getting-started.html",
       "relativePath": "zh/guide/getting-started.md",
-      "key": "v-95a7879e",
+      "key": "v-01e8eea8",
       "path": "/zh/guide/getting-started.html",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "全局计算属性",
       "frontmatter": {},
       "regularPath": "/zh/guide/global-computed.html",
       "relativePath": "zh/guide/global-computed.md",
-      "key": "v-11983d1a",
+      "key": "v-41132dee",
       "path": "/zh/guide/global-computed.html",
       "headers": [
         {
@@ -3059,14 +3059,14 @@ export const siteData = {
           "slug": "themeconfig"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "多语言支持",
       "frontmatter": {},
       "regularPath": "/zh/guide/i18n.html",
       "relativePath": "zh/guide/i18n.md",
-      "key": "v-910fa766",
+      "key": "v-e247f1f0",
       "path": "/zh/guide/i18n.html",
       "headers": [
         {
@@ -3080,14 +3080,14 @@ export const siteData = {
           "slug": "默认主题多语言配置"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Markdown 插槽",
       "frontmatter": {},
       "regularPath": "/zh/guide/markdown-slot.html",
       "relativePath": "zh/guide/markdown-slot.md",
-      "key": "v-7e69112e",
+      "key": "v-0fbb8d38",
       "path": "/zh/guide/markdown-slot.html",
       "headers": [
         {
@@ -3111,14 +3111,14 @@ export const siteData = {
           "slug": "例子"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Markdown 拓展",
       "frontmatter": {},
       "regularPath": "/zh/guide/markdown.html",
       "relativePath": "zh/guide/markdown.md",
-      "key": "v-0f1d48a6",
+      "key": "v-51584b68",
       "path": "/zh/guide/markdown.html",
       "headers": [
         {
@@ -3202,14 +3202,14 @@ export const siteData = {
           "slug": "进阶配置"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "永久链接",
       "frontmatter": {},
       "regularPath": "/zh/guide/permalinks.html",
       "relativePath": "zh/guide/permalinks.md",
-      "key": "v-bbfe38e6",
+      "key": "v-4a237dc8",
       "path": "/zh/guide/permalinks.html",
       "headers": [
         {
@@ -3233,14 +3233,14 @@ export const siteData = {
           "slug": "模板变量"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "在 Markdown 中 使用 Vue",
       "frontmatter": {},
       "regularPath": "/zh/guide/using-vue.html",
       "relativePath": "zh/guide/using-vue.md",
-      "key": "v-5152d9b2",
+      "key": "v-db7effbc",
       "path": "/zh/guide/using-vue.html",
       "headers": [
         {
@@ -3319,7 +3319,118 @@ export const siteData = {
           "slug": "badge"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "VuePress 1.x 的设计理念",
+      "frontmatter": {
+        "sidebar": "auto"
+      },
+      "regularPath": "/zh/miscellaneous/design-concepts.html",
+      "relativePath": "zh/miscellaneous/design-concepts.md",
+      "key": "v-03ff2544",
+      "path": "/zh/miscellaneous/design-concepts.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "插件化",
+          "slug": "插件化"
+        },
+        {
+          "level": 3,
+          "title": "解耦",
+          "slug": "解耦"
+        },
+        {
+          "level": 3,
+          "title": "配置的管理",
+          "slug": "配置的管理"
+        },
+        {
+          "level": 3,
+          "title": ".vuepress/config.js 也是插件",
+          "slug": "vuepress-config-js-也是插件"
+        },
+        {
+          "level": 3,
+          "title": "theme/index.js 也是插件",
+          "slug": "theme-index-js-也是插件"
+        },
+        {
+          "level": 3,
+          "title": "在插件中使用插件",
+          "slug": "在插件中使用插件"
+        },
+        {
+          "level": 2,
+          "title": "约定大于配置",
+          "slug": "约定大于配置"
+        },
+        {
+          "level": 2,
+          "title": "合理的优先级管理",
+          "slug": "合理的优先级管理"
+        },
+        {
+          "level": 3,
+          "title": "加载优先级",
+          "slug": "加载优先级"
+        },
+        {
+          "level": 3,
+          "title": "Overriding",
+          "slug": "overriding"
+        },
+        {
+          "level": 2,
+          "title": "其他",
+          "slug": "其他"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "本地开发",
+      "frontmatter": {
+        "sidebar": "auto"
+      },
+      "regularPath": "/zh/miscellaneous/local-development.html",
+      "relativePath": "zh/miscellaneous/local-development.md",
+      "key": "v-629d8906",
+      "path": "/zh/miscellaneous/local-development.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "摘要",
+          "slug": "摘要"
+        },
+        {
+          "level": 2,
+          "title": "初始化 package",
+          "slug": "初始化-package"
+        },
+        {
+          "level": 2,
+          "title": "链接",
+          "slug": "链接"
+        },
+        {
+          "level": 2,
+          "title": "取消链接",
+          "slug": "取消链接"
+        },
+        {
+          "level": 2,
+          "title": "BUGS / 问答",
+          "slug": "bugs-问答"
+        },
+        {
+          "level": 2,
+          "title": "更多相关",
+          "slug": "更多相关"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "术语",
@@ -3328,7 +3439,7 @@ export const siteData = {
       },
       "regularPath": "/zh/miscellaneous/glossary.html",
       "relativePath": "zh/miscellaneous/glossary.md",
-      "key": "v-9f07dce6",
+      "key": "v-008ba970",
       "path": "/zh/miscellaneous/glossary.html",
       "headers": [
         {
@@ -3392,118 +3503,7 @@ export const siteData = {
           "slug": "parentthemeentry"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "VuePress 1.x 的设计理念",
-      "frontmatter": {
-        "sidebar": "auto"
-      },
-      "regularPath": "/zh/miscellaneous/design-concepts.html",
-      "relativePath": "zh/miscellaneous/design-concepts.md",
-      "key": "v-289a2ec9",
-      "path": "/zh/miscellaneous/design-concepts.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "插件化",
-          "slug": "插件化"
-        },
-        {
-          "level": 3,
-          "title": "解耦",
-          "slug": "解耦"
-        },
-        {
-          "level": 3,
-          "title": "配置的管理",
-          "slug": "配置的管理"
-        },
-        {
-          "level": 3,
-          "title": ".vuepress/config.js 也是插件",
-          "slug": "vuepress-config-js-也是插件"
-        },
-        {
-          "level": 3,
-          "title": "theme/index.js 也是插件",
-          "slug": "theme-index-js-也是插件"
-        },
-        {
-          "level": 3,
-          "title": "在插件中使用插件",
-          "slug": "在插件中使用插件"
-        },
-        {
-          "level": 2,
-          "title": "约定大于配置",
-          "slug": "约定大于配置"
-        },
-        {
-          "level": 2,
-          "title": "合理的优先级管理",
-          "slug": "合理的优先级管理"
-        },
-        {
-          "level": 3,
-          "title": "加载优先级",
-          "slug": "加载优先级"
-        },
-        {
-          "level": 3,
-          "title": "Overriding",
-          "slug": "overriding"
-        },
-        {
-          "level": 2,
-          "title": "其他",
-          "slug": "其他"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "本地开发",
-      "frontmatter": {
-        "sidebar": "auto"
-      },
-      "regularPath": "/zh/miscellaneous/local-development.html",
-      "relativePath": "zh/miscellaneous/local-development.md",
-      "key": "v-47de480b",
-      "path": "/zh/miscellaneous/local-development.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "摘要",
-          "slug": "摘要"
-        },
-        {
-          "level": 2,
-          "title": "初始化 package",
-          "slug": "初始化-package"
-        },
-        {
-          "level": 2,
-          "title": "链接",
-          "slug": "链接"
-        },
-        {
-          "level": 2,
-          "title": "取消链接",
-          "slug": "取消链接"
-        },
-        {
-          "level": 2,
-          "title": "BUGS / 问答",
-          "slug": "bugs-问答"
-        },
-        {
-          "level": 2,
-          "title": "更多相关",
-          "slug": "更多相关"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "从 VuePress 0.x 迁移",
@@ -3512,7 +3512,7 @@ export const siteData = {
       },
       "regularPath": "/zh/miscellaneous/migration-guide.html",
       "relativePath": "zh/miscellaneous/migration-guide.md",
-      "key": "v-15944c03",
+      "key": "v-1e0d7b04",
       "path": "/zh/miscellaneous/migration-guide.html",
       "headers": [
         {
@@ -3551,14 +3551,14 @@ export const siteData = {
           "slug": "vuepress-style-styl"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "插件",
       "frontmatter": {},
       "regularPath": "/zh/plugin/",
       "relativePath": "zh/plugin/README.md",
-      "key": "v-677caa78",
+      "key": "v-156e71ae",
       "path": "/zh/plugin/",
       "headers": [
         {
@@ -3587,14 +3587,14 @@ export const siteData = {
           "slug": "架构"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Context API",
       "frontmatter": {},
       "regularPath": "/zh/plugin/context-api.html",
       "relativePath": "zh/plugin/context-api.md",
-      "key": "v-5acaf16d",
+      "key": "v-c16013b0",
       "path": "/zh/plugin/context-api.html",
       "headers": [
         {
@@ -3633,14 +3633,14 @@ export const siteData = {
           "slug": "ctx-writetemp"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "生命周期",
       "frontmatter": {},
       "regularPath": "/zh/plugin/life-cycle.html",
       "relativePath": "zh/plugin/life-cycle.md",
-      "key": "v-6fc16899",
+      "key": "v-ccb33fd8",
       "path": "/zh/plugin/life-cycle.html",
       "headers": [
         {
@@ -3659,7 +3659,31 @@ export const siteData = {
           "slug": "generated"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "back-to-top",
+      "frontmatter": {
+        "title": "back-to-top",
+        "metaTitle": "Back-To-Top 插件 | VuePress"
+      },
+      "regularPath": "/zh/plugin/official/plugin-back-to-top.html",
+      "relativePath": "zh/plugin/official/plugin-back-to-top.md",
+      "key": "v-60720370",
+      "path": "/zh/plugin/official/plugin-back-to-top.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "安装",
+          "slug": "安装"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "active-header-links",
@@ -3669,7 +3693,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-active-header-links.html",
       "relativePath": "zh/plugin/official/plugin-active-header-links.md",
-      "key": "v-3c44aaa6",
+      "key": "v-0f63a530",
       "path": "/zh/plugin/official/plugin-active-header-links.html",
       "headers": [
         {
@@ -3703,31 +3727,7 @@ export const siteData = {
           "slug": "headeranchorselector"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "back-to-top",
-      "frontmatter": {
-        "title": "back-to-top",
-        "metaTitle": "Back-To-Top 插件 | VuePress"
-      },
-      "regularPath": "/zh/plugin/official/plugin-back-to-top.html",
-      "relativePath": "zh/plugin/official/plugin-back-to-top.md",
-      "key": "v-d888b4e6",
-      "path": "/zh/plugin/official/plugin-back-to-top.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "安装",
-          "slug": "安装"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "blog",
@@ -3737,7 +3737,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-blog.html",
       "relativePath": "zh/plugin/official/plugin-blog.md",
-      "key": "v-ef4407da",
+      "key": "v-7a9f680e",
       "path": "/zh/plugin/official/plugin-blog.html",
       "headers": [
         {
@@ -3756,7 +3756,7 @@ export const siteData = {
           "slug": "使用"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "google-analytics",
@@ -3766,7 +3766,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-google-analytics.html",
       "relativePath": "zh/plugin/official/plugin-google-analytics.md",
-      "key": "v-362b31f3",
+      "key": "v-fe11c624",
       "path": "/zh/plugin/official/plugin-google-analytics.html",
       "headers": [
         {
@@ -3790,7 +3790,7 @@ export const siteData = {
           "slug": "ga"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "last-updated",
@@ -3800,7 +3800,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-last-updated.html",
       "relativePath": "zh/plugin/official/plugin-last-updated.md",
-      "key": "v-50dd7a4f",
+      "key": "v-9114df6c",
       "path": "/zh/plugin/official/plugin-last-updated.html",
       "headers": [
         {
@@ -3824,7 +3824,7 @@ export const siteData = {
           "slug": "dateoptions"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "medium-zoom",
@@ -3834,7 +3834,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-medium-zoom.html",
       "relativePath": "zh/plugin/official/plugin-medium-zoom.md",
-      "key": "v-5110934d",
+      "key": "v-e5c827f0",
       "path": "/zh/plugin/official/plugin-medium-zoom.html",
       "headers": [
         {
@@ -3863,7 +3863,7 @@ export const siteData = {
           "slug": "options"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "nprogress",
@@ -3873,7 +3873,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-nprogress.html",
       "relativePath": "zh/plugin/official/plugin-nprogress.md",
-      "key": "v-87cb9166",
+      "key": "v-240d2588",
       "path": "/zh/plugin/official/plugin-nprogress.html",
       "headers": [
         {
@@ -3892,7 +3892,7 @@ export const siteData = {
           "slug": "自定义颜色"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "pwa",
@@ -3902,7 +3902,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-pwa.html",
       "relativePath": "zh/plugin/official/plugin-pwa.md",
-      "key": "v-5786cd26",
+      "key": "v-024ec828",
       "path": "/zh/plugin/official/plugin-pwa.html",
       "headers": [
         {
@@ -3961,7 +3961,7 @@ export const siteData = {
           "slug": "自定义-sw-update-popup-的-ui"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "register-components",
@@ -3971,7 +3971,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/official/plugin-register-components.html",
       "relativePath": "zh/plugin/official/plugin-register-components.md",
-      "key": "v-e76452a6",
+      "key": "v-ba834d30",
       "path": "/zh/plugin/official/plugin-register-components.html",
       "headers": [
         {
@@ -4005,51 +4005,7 @@ export const siteData = {
           "slug": "getcomponentname"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
-    },
-    {
-      "title": "search",
-      "frontmatter": {
-        "title": "search",
-        "metaTitle": "Search 插件 | VuePress"
-      },
-      "regularPath": "/zh/plugin/official/plugin-search.html",
-      "relativePath": "zh/plugin/official/plugin-search.md",
-      "key": "v-4448a947",
-      "path": "/zh/plugin/official/plugin-search.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "安装",
-          "slug": "安装"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        },
-        {
-          "level": 2,
-          "title": "选项",
-          "slug": "选项"
-        },
-        {
-          "level": 3,
-          "title": "searchMaxSuggestions",
-          "slug": "searchmaxsuggestions"
-        },
-        {
-          "level": 2,
-          "title": "技巧",
-          "slug": "技巧"
-        },
-        {
-          "level": 3,
-          "title": "调整默认颜色",
-          "slug": "调整默认颜色"
-        }
-      ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "Option API",
@@ -4058,7 +4014,7 @@ export const siteData = {
       },
       "regularPath": "/zh/plugin/option-api.html",
       "relativePath": "zh/plugin/option-api.md",
-      "key": "v-9937e802",
+      "key": "v-456df90c",
       "path": "/zh/plugin/option-api.html",
       "headers": [
         {
@@ -4142,14 +4098,58 @@ export const siteData = {
           "slug": "extendcli"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
+    },
+    {
+      "title": "search",
+      "frontmatter": {
+        "title": "search",
+        "metaTitle": "Search 插件 | VuePress"
+      },
+      "regularPath": "/zh/plugin/official/plugin-search.html",
+      "relativePath": "zh/plugin/official/plugin-search.md",
+      "key": "v-1fad9fc2",
+      "path": "/zh/plugin/official/plugin-search.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "安装",
+          "slug": "安装"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        },
+        {
+          "level": 2,
+          "title": "选项",
+          "slug": "选项"
+        },
+        {
+          "level": 3,
+          "title": "searchMaxSuggestions",
+          "slug": "searchmaxsuggestions"
+        },
+        {
+          "level": 2,
+          "title": "技巧",
+          "slug": "技巧"
+        },
+        {
+          "level": 3,
+          "title": "调整默认颜色",
+          "slug": "调整默认颜色"
+        }
+      ],
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "使用插件",
       "frontmatter": {},
       "regularPath": "/zh/plugin/using-a-plugin.html",
       "relativePath": "zh/plugin/using-a-plugin.md",
-      "key": "v-766dc3f3",
+      "key": "v-7f65df24",
       "path": "/zh/plugin/using-a-plugin.html",
       "headers": [
         {
@@ -4178,32 +4178,32 @@ export const siteData = {
           "slug": "对象式"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "开发插件",
       "frontmatter": {},
       "regularPath": "/zh/plugin/writing-a-plugin.html",
       "relativePath": "zh/plugin/writing-a-plugin.md",
-      "key": "v-6ecde663",
+      "key": "v-32270544",
       "path": "/zh/plugin/writing-a-plugin.html",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "主题",
       "frontmatter": {},
       "regularPath": "/zh/theme/",
       "relativePath": "zh/theme/README.md",
-      "key": "v-3bb59ffe",
+      "key": "v-df9adcba",
       "path": "/zh/theme/",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "博客主题",
       "frontmatter": {},
       "regularPath": "/zh/theme/blog-theme.html",
       "relativePath": "zh/theme/blog-theme.md",
-      "key": "v-7ed489ad",
+      "key": "v-26f723e8",
       "path": "/zh/theme/blog-theme.html",
       "headers": [
         {
@@ -4222,14 +4222,14 @@ export const siteData = {
           "slug": "使用"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "默认主题配置",
       "frontmatter": {},
       "regularPath": "/zh/theme/default-theme-config.html",
       "relativePath": "zh/theme/default-theme-config.md",
-      "key": "v-d8374926",
+      "key": "v-7c12ebb0",
       "path": "/zh/theme/default-theme-config.html",
       "headers": [
         {
@@ -4343,14 +4343,14 @@ export const siteData = {
           "slug": "特定页面的自定义布局"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "主题的继承",
       "frontmatter": {},
       "regularPath": "/zh/theme/inheritance.html",
       "relativePath": "zh/theme/inheritance.md",
-      "key": "v-28037cb3",
+      "key": "v-51e8742e",
       "path": "/zh/theme/inheritance.html",
       "headers": [
         {
@@ -4389,7 +4389,7 @@ export const siteData = {
           "slug": "访问父主题"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "主题的配置",
@@ -4398,7 +4398,7 @@ export const siteData = {
       },
       "regularPath": "/zh/theme/option-api.html",
       "relativePath": "zh/theme/option-api.md",
-      "key": "v-377f0ba6",
+      "key": "v-e739d730",
       "path": "/zh/theme/option-api.html",
       "headers": [
         {
@@ -4427,14 +4427,14 @@ export const siteData = {
           "slug": "globallayout"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "使用主题",
       "frontmatter": {},
       "regularPath": "/zh/theme/using-a-theme.html",
       "relativePath": "zh/theme/using-a-theme.md",
-      "key": "v-23841042",
+      "key": "v-2594b9da",
       "path": "/zh/theme/using-a-theme.html",
       "headers": [
         {
@@ -4448,14 +4448,14 @@ export const siteData = {
           "slug": "主题的缩写"
         }
       ],
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     },
     {
       "title": "开发主题",
       "frontmatter": {},
       "regularPath": "/zh/theme/writing-a-theme.html",
       "relativePath": "zh/theme/writing-a-theme.md",
-      "key": "v-16d2cb22",
+      "key": "v-3e75e6ea",
       "path": "/zh/theme/writing-a-theme.html",
       "headers": [
         {
@@ -4495,7 +4495,7 @@ export const siteData = {
         }
       ],
       "excerpt": "<h1 id=\"开发主题\"><a class=\"header-anchor\" href=\"#开发主题\">#</a> 开发主题</h1>\n<p>想要书写一个主题，首先在你文档根目录创建一个 <code>.vuepress/theme</code> 目录，接着创建一个 <code>Layout.vue</code> 文件：</p>\n<pre class=\"vue-container\"><code><p>.\n└─ .vuepress\n └─ <code>theme</code>\n     └─ Layout.vue</p>\n</code></pre><p>到这里，就像开发一个普通的 Vue 应用一样。如何组织你的主题，这完全取决于你。</p>\n<h2 id=\"获取渲染内容\"><a class=\"header-anchor\" href=\"#获取渲染内容\">#</a> 获取渲染内容</h2>\n<p>当前的 <code>.md</code> 文件渲染的内容，可以作为一个独特的全局组件 <code>&lt;Content/&gt;</code> 来使用，你可能想要它显示在页面中的某个地方。一个最简单的主题，可以是一个唯一的 <code>Layout.vue</code> 组件，并包含以下内容：</p>\n<!--beforebegin--><div class=\"language-html extra-class\"><!--afterbegin--><pre v-pre class=\"language-html\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>template</span><span class=\"token punctuation\">></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>div</span> <span class=\"token attr-name\">class</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>theme-container<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">></span></span>\n    <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>Content</span><span class=\"token punctuation\">/></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>div</span><span class=\"token punctuation\">></span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>template</span><span class=\"token punctuation\">></span></span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><p><strong>更多请阅读:</strong></p>\n<ul>\n<li><RouterLink to=\"/zh/guide/markdown-slot.html\">Markdown 插槽</RouterLink></li>\n</ul>\n<h2 id=\"内容摘抄\"><a class=\"header-anchor\" href=\"#内容摘抄\">#</a> 内容摘抄</h2>\n<p>如果一个 markdown 文件中有一个 `</p>\n",
-      "lastUpdated": "2/2/2021, 2:16:25 PM"
+      "lastUpdated": "2021/2/2 下午2:04:28"
     }
   ],
   "themeConfig": {

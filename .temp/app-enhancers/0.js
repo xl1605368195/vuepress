@@ -1,1 +1,1 @@
-export { default } from "/Users/xule05/vuepress/docs/.vuepress/enhanceApp.js"
+export { default } from "/Users/xule/vuepress/docs/.vuepress/enhanceApp.js"

@@ -1,0 +1,1 @@
+export { default } from "/Users/xule/vuepress/node_modules/vuepress-plugin-flowchart/lib/client.js"
